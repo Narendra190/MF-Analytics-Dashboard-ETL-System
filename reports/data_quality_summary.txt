@@ -1,0 +1,4 @@
+Data quality summary
+====================
+If fund_master or nav_history are present in data/raw, the script validates AMFI code consistency.
+If CSV files are missing, copy them into data/raw before rerunning.
