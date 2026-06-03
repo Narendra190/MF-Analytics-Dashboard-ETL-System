@@ -1,0 +1,41 @@
+scheme_name,transaction_type,count,total_amount_inr,avg_amount_inr,unique_investors
+ABSL Frontline Equity Fund - Regular - Growth,Lumpsum,187,44851424.0,239847.19,183
+ABSL Liquid Fund - Regular - Growth,Lumpsum,201,52874601.0,263057.72,196
+ABSL Small Cap Fund - Regular - Growth,Lumpsum,205,55084607.0,268705.4,199
+Axis Bluechip Fund - Direct - Growth,Lumpsum,194,47621641.0,245472.38,189
+Axis Bluechip Fund - Regular - Growth,Lumpsum,211,54665266.0,259077.09,209
+Axis Midcap Fund - Regular - Growth,Lumpsum,216,53227585.0,246424.0,215
+Axis Small Cap Fund - Regular - Growth,Lumpsum,216,59392765.0,274966.5,212
+DSP Midcap Fund - Regular - Growth,Lumpsum,191,51795356.0,271179.87,186
+DSP Small Cap Fund - Regular - Growth,Lumpsum,196,48784390.0,248899.95,194
+DSP Top 100 Equity Fund - Regular - Growth,Lumpsum,182,43734166.0,240297.62,175
+HDFC Mid-Cap Opportunities Fund - Direct - Growth,Lumpsum,220,54476770.0,247621.68,214
+HDFC Mid-Cap Opportunities Fund - Regular - Growth,Lumpsum,194,46711295.0,240779.87,192
+HDFC Short Term Debt Fund - Regular - Growth,Lumpsum,215,54510816.0,253538.68,211
+HDFC Top 100 Fund - Direct Plan - Growth,Lumpsum,189,47210704.0,249792.08,186
+HDFC Top 100 Fund - Regular Plan - Growth,Lumpsum,201,54004253.0,268677.88,198
+ICICI Pru Bluechip Fund - Direct - Growth,Lumpsum,197,46467367.0,235874.96,195
+ICICI Pru Bluechip Fund - Regular - Growth,Lumpsum,203,52172463.0,257007.21,200
+ICICI Pru Liquid Fund - Regular - Growth,Lumpsum,203,56672553.0,279175.14,196
+ICICI Pru Midcap Fund - Regular - Growth,Lumpsum,197,47383599.0,240525.88,194
+ICICI Pru Value Discovery Fund - Regular - Growth,Lumpsum,203,54465563.0,268303.27,197
+Kotak Bluechip Fund - Regular - Growth,Lumpsum,169,41404794.0,244998.78,167
+Kotak Emerging Equity Fund - Regular - Growth,Lumpsum,187,48233317.0,257932.18,182
+Kotak Flexicap Fund - Regular - Growth,Lumpsum,207,53798739.0,259897.29,196
+Kotak Liquid Fund - Regular - Growth,Lumpsum,224,55446067.0,247527.08,220
+Mirae Asset Emerging Bluechip Fund - Regular - Growth,Lumpsum,240,59700297.0,248751.24,232
+Mirae Asset Large Cap Fund - Regular - Growth,Lumpsum,186,46066599.0,247669.89,181
+Mirae Asset Tax Saver Fund - Regular - Growth,Lumpsum,196,45627512.0,232793.43,190
+Nippon India ETF Nifty 50 BeES,Lumpsum,192,47603979.0,247937.39,189
+Nippon India Gilt Securities Fund - Regular - Growth,Lumpsum,221,55233748.0,249926.46,215
+Nippon India Large Cap Fund - Direct - Growth,Lumpsum,207,51670155.0,249614.28,202
+Nippon India Large Cap Fund - Regular - Growth,Lumpsum,203,52620005.0,259211.85,199
+Nippon India Small Cap Fund - Regular - Growth,Lumpsum,178,43689131.0,245444.56,176
+SBI Bluechip Fund - Direct Plan - Growth,Lumpsum,203,50909425.0,250785.34,200
+SBI Bluechip Fund - Regular Plan - Growth,Lumpsum,224,56475192.0,252121.39,220
+SBI Magnum Gilt Fund - Regular Plan - Growth,Lumpsum,193,51861681.0,268713.37,189
+SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,210,53362254.0,254105.97,207
+SBI Small Cap Fund - Regular Plan - Growth,Lumpsum,191,47488654.0,248631.7,187
+UTI Flexi Cap Fund - Regular - Growth,Lumpsum,215,56134459.0,261090.51,211
+UTI Mid Cap Fund - Regular - Growth,Lumpsum,212,56770759.0,267786.6,206
+UTI Nifty 50 Index Fund - Regular - Growth,Lumpsum,216,59617497.0,276006.93,202
